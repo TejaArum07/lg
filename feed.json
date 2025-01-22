@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LG PURI CARE",
+    "description": "",
+    "home_page_url": "https://tejaarum07.github.io/lg",
+    "feed_url": "https://tejaarum07.github.io/lg/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "MIRZA ARSYAD"
+    },
+    "items": [
+        {
+            "id": "https://tejaarum07.github.io/lg/lg-puri-care.html",
+            "url": "https://tejaarum07.github.io/lg/lg-puri-care.html",
+            "title": "LG PURI CARE",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "MIRZA ARSYAD"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-22T23:18:42+08:00",
+            "date_modified": "2025-01-22T23:18:42+08:00"
+        }
+    ]
+}

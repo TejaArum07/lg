@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>LG PURI CARE</title>
+    <link href="https://tejaarum07.github.io/lg/feed.xml" rel="self" />
+    <link href="https://tejaarum07.github.io/lg" />
+    <updated>2025-01-22T23:18:42+08:00</updated>
+    <author>
+        <name>MIRZA ARSYAD</name>
+    </author>
+    <id>https://tejaarum07.github.io/lg</id>
+
+    <entry>
+        <title>LG PURI CARE</title>
+        <author>
+            <name>MIRZA ARSYAD</name>
+        </author>
+        <link href="https://tejaarum07.github.io/lg/lg-puri-care.html"/>
+        <id>https://tejaarum07.github.io/lg/lg-puri-care.html</id>
+
+        <updated>2025-01-22T23:18:42+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
